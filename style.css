@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+
+    background-color: blue;
+}
+
+.flexcontainer{
+    display: flex;
+
+    justify-content: end;
+}
+
+.Speaker{
+    background-color: aqua;
+    margin-left: 10px;
+    margin-right: 10px;
+
+    width: 400px;
+    height: 100vh;
+}
